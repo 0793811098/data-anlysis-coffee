@@ -8,6 +8,10 @@ numpy>=1.21.0
 # Scientific Computing
 scipy>=1.7.0
 
+# Web Dashboard (Streamlit)
+streamlit>=1.28.0
+plotly>=5.0.0
+
 # Optional dependencies for enhanced features
 # Uncomment to use:
 
@@ -20,7 +24,6 @@ scipy>=1.7.0
 
 # Data Visualization
 # matplotlib>=3.4.0
-# plotly>=5.0.0
 
 # Web Framework (for API)
 # fastapi>=0.68.0
@@ -33,3 +36,4 @@ scipy>=1.7.0
 # pytest>=6.2.0
 # black>=21.0
 # flake8>=3.9.0
+
